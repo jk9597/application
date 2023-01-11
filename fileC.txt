@@ -1,3 +1,4 @@
 this is fileC
 
 Another change on fileC
+Squash merge for fileC
